@@ -5,6 +5,7 @@ meme_dict = {
              "ROFL":"ROFL è utilizzato come reazione a qualcosa di divertente, similea LOL",
              "LMAO":"Simile a LOL, si usa per esprimere una cosa divertente e in inglese significa 'laughing my ass of' ovvero 'ridendo a crepapelle'",
              "OMG" : "Significa 'oh my god', ovvero 'oh mio dio'"
+             "ASAP": "Termine usato per dire che qualcosa deve essere fatto il prima possibile"
              }
 
 parola = input("Scrivi una parola che non capisci (usa solo lettere maiuscole!): ")
